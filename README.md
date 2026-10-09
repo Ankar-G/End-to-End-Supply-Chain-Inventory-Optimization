@@ -576,8 +576,8 @@ These items could not be validated from the dashboard screenshots. They should b
 
 If you have feedback or would like to discuss this project, feel free to reach out.
 
-- **LinkedIn:** `[Add LinkedIn profile URL]`
-- **Email:** `[Add email address]`
+- **LinkedIn:** `[https://www.linkedin.com/in/ankar-goswami-23a196245/]`
+- **Email:** `[goswamijit99@gmail.com]`
 
 ---
 
