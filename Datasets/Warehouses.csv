@@ -1,0 +1,9 @@
+Warehouse_ID,Warehouse_Name,City,State,Region,Warehouse_Type,Storage_Capacity,Operating_Cost
+WH01,Gurugram Central DC,Gurugram,Haryana,North,Central DC,45000,2790000
+WH02,Bhiwandi Mega DC,Bhiwandi,Maharashtra,West,Central DC,58000,3364000
+WH03,Bengaluru Regional DC,Bengaluru,Karnataka,South,Regional DC,30000,1980000
+WH04,Chennai Regional DC,Chennai,Tamil Nadu,South,Regional DC,13000,702000
+WH05,Kolkata Regional DC,Kolkata,West Bengal,East,Regional DC,20000,1000000
+WH06,Hyderabad Fulfillment Center,Hyderabad,Telangana,South,Fulfillment Center,32000,1920000
+WH07,Ahmedabad Regional DC,Ahmedabad,Gujarat,West,Regional DC,20000,960000
+WH08,Lucknow Distribution Hub,Lucknow,Uttar Pradesh,North,Distribution Hub,32000,1408000

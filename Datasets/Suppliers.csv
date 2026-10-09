@@ -1,0 +1,14 @@
+Supplier_ID,Supplier_Name,Supplier_Category,Country,Supplier_Rating,Payment_Terms,Contract_Status
+SUP01,Kisan Harvest Foods Pvt Ltd,Food & Staples,India,4.7,Net 30,Active
+SUP02,Greenfield Agro Processing Ltd,Food & Staples,India,3.6,Net 45,Active
+SUP03,CoolWave Beverages Pvt Ltd,Beverages,India,4.1,Net 30,Active
+SUP04,Crispo Snacks Industries,Snacks & Confectionery,India,2.8,Net 30,Under Review
+SUP05,PureGlow Personal Care Ltd,Personal Care,India,4.5,Net 45,Active
+SUP06,HomeFresh Chemicals Pvt Ltd,Home Care,India,3.4,Net 60,Active
+SUP07,Shenzhen Brightlink Electronics Co Ltd,Electronics Accessories,China,2.4,Net 60,Under Review
+SUP08,Guangzhou TechParts Co Ltd,Electronics Accessories,China,3.3,Net 45,Active
+SUP09,Little Sprouts Baby Products Pvt Ltd,Baby Care,India,4.2,Net 30,Active
+SUP10,VitaWell Nutraceuticals Pvt Ltd,Health & Wellness,India,3.5,Net 45,Active
+SUP11,PaperCraft Stationers Ltd,Stationery,India,4.3,Net 30,Active
+SUP12,Saigon Plastics & Housewares JSC,Home & Kitchen,Vietnam,2.9,Net 60,Renewal Pending
+SUP13,Siam Beauty Labs Co Ltd,Personal Care,Thailand,3.8,Net 45,Active

@@ -1,0 +1,40 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,Unit_Price,Supplier_ID,Lead_Time_Days,Safety_Stock,Reorder_Point,Minimum_Order_Qty
+P001,Basmati Rice 5 kg,Food & Staples,Rice & Grains,365.0,449.0,SUP02,8,1878,2394,150
+P002,Whole Wheat Atta 10 kg,Food & Staples,Flour & Atta,338.0,405.0,SUP02,5,1788,2196,300
+P003,Refined Sunflower Oil 1 L,Food & Staples,Edible Oil,129.0,158.0,SUP02,7,3246,4272,498
+P005,Iodised Salt 1 kg,Food & Staples,Salt & Spices,17.5,24.0,SUP01,4,3072,4104,504
+P006,Instant Masala Noodles 12-Pack,Food & Staples,Instant Food,128.0,162.0,SUP01,6,3552,4638,498
+P008,Mixed Fruit Jam 500 g,Food & Staples,Sauces & Spreads,76.0,104.0,SUP01,7,1680,1920,204
+P010,Packaged Drinking Water 1 L (12-Pack),Beverages,Packaged Water,96.0,132.0,SUP03,3,1536,1896,252
+P011,Cola Soft Drink 2 L,Beverages,Carbonated Drinks,57.0,80.0,SUP03,4,2328,3000,504
+P012,Mixed Fruit Juice 1 L,Beverages,Juices,64.0,88.0,SUP03,5,828,1296,204
+P013,Instant Coffee 100 g,Beverages,Tea & Coffee,212.0,282.0,SUP03,9,1284,1686,120
+P014,Green Tea Bags 25 Ct,Beverages,Tea & Coffee,84.0,118.0,SUP03,9,720,924,120
+P016,Potato Chips Classic 150 g,Snacks & Confectionery,Salty Snacks,32.0,45.0,SUP04,5,2880,4896,1200
+P018,Cream Biscuits 400 g,Snacks & Confectionery,Biscuits & Cookies,42.0,58.0,SUP04,6,4152,5832,600
+P019,Milk Chocolate Bar 40 g,Snacks & Confectionery,Chocolates,24.0,35.0,SUP04,7,3288,6600,1488
+P020,Assorted Chocolate Gift Box 250 g,Snacks & Confectionery,Chocolates,255.0,349.0,SUP04,10,594,978,120
+P022,Herbal Shampoo 340 ml,Personal Care,Hair Care,168.0,225.0,SUP05,9,2346,3066,150
+P024,Body Lotion 400 ml,Personal Care,Skin Care,188.0,259.0,SUP05,10,1308,1734,150
+P025,Sunscreen SPF 50 100 ml,Personal Care,Skin Care,236.0,329.0,SUP13,24,1638,2400,102
+P026,Face Wash 100 ml,Personal Care,Skin Care,94.0,135.0,SUP05,8,1716,2292,252
+P028,Deodorant Spray 150 ml,Personal Care,Deodorants,128.0,179.0,SUP13,22,2244,3372,102
+P029,Laundry Detergent Powder 2 kg,Home Care,Laundry,189.0,245.0,SUP06,8,2316,3000,150
+P030,Dishwash Liquid 750 ml,Home Care,Dishwash,96.0,129.0,SUP06,7,2076,2772,396
+P031,Floor Cleaner 1 L,Home Care,Surface Cleaners,108.0,149.0,SUP06,8,1740,2316,252
+P033,Mosquito Repellent Refill (Pack of 3),Home Care,Pest Control,118.0,165.0,SUP06,10,834,1416,198
+P034,Baby Diapers Medium 64 Ct,Baby Care,Diapers,612.0,799.0,SUP09,12,1340,1718,80
+P036,Baby Lotion 200 ml,Baby Care,Baby Skin Care,148.0,205.0,SUP09,11,750,990,102
+P037,Vitamin C Tablets 60 Ct,Health & Wellness,Supplements,168.0,249.0,SUP10,12,1524,2076,150
+P038,Hand Sanitizer 500 ml,Health & Wellness,Hygiene,134.0,189.0,SUP10,9,2586,2988,78
+P039,Whey Protein 1 kg,Health & Wellness,Sports Nutrition,1180.0,1599.0,SUP10,15,418,540,40
+P041,USB-C Fast Charging Cable 1 m,Electronics Accessories,Cables & Chargers,92.0,199.0,SUP08,32,6012,9906,300
+P042,20W Wall Charger,Electronics Accessories,Cables & Chargers,218.0,399.0,SUP08,34,3810,6000,198
+P043,Wireless Earbuds,Electronics Accessories,Audio,640.0,1299.0,SUP07,38,1007,1973,60
+P044,Power Bank 10000 mAh,Electronics Accessories,Power,520.0,999.0,SUP07,42,2154,3256,250
+P045,Portable Bluetooth Speaker,Electronics Accessories,Audio,780.0,1499.0,SUP07,40,2996,3654,200
+P046,Smartwatch Basic,Electronics Accessories,Wearables,1050.0,1999.0,SUP07,36,634,915,150
+P047,A4 Ruled Notebook (Pack of 6),Stationery,Paper Products,156.0,219.0,SUP11,8,1116,1770,252
+P048,Gel Pens Box of 10,Stationery,Writing Instruments,62.0,95.0,SUP11,7,1992,2652,252
+P050,Airtight Storage Container Set (3 Pcs),Home & Kitchen,Kitchen Storage,188.0,329.0,SUP12,30,1194,1818,402
+P051,Insulated Steel Water Bottle 750 ml,Home & Kitchen,Drinkware,245.0,449.0,SUP12,32,2034,2544,252
