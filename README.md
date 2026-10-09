@@ -562,7 +562,7 @@ These items could not be validated from the dashboard screenshots. They should b
 <!-- Example: ![Executive Overview](screenshots/01_executive_overview.png) -->
 
 ### 2. Inventory Analysis
-`[Add Inventory Analysis screenshot URL]`
+![Inventory Analysis](https://github.com/Ankar-G/End-to-End-Supply-Chain-Inventory-Optimization/blob/main/Dashboards%20SS/Screenshot%202026-10-09%20123750.png)
 
 ### 3. Demand & Replenishment
 `[Add Demand & Replenishment screenshot URL]`
