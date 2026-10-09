@@ -557,7 +557,7 @@ These items could not be validated from the dashboard screenshots. They should b
 ## 19. Dashboard Preview
 
 ### 1. Executive Supply Chain Overview
-`[Add Executive Overview screenshot URL]`
+`[https://github.com/Ankar-G/End-to-End-Supply-Chain-Inventory-Optimization/blob/main/Dashboards%20SS/Screenshot%202026-10-09%20123733.png]`
 
 <!-- Example: ![Executive Overview](screenshots/01_executive_overview.png) -->
 
