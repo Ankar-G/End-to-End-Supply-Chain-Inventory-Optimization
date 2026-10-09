@@ -565,10 +565,10 @@ These items could not be validated from the dashboard screenshots. They should b
 ![Inventory Analysis](https://github.com/Ankar-G/End-to-End-Supply-Chain-Inventory-Optimization/blob/main/Dashboards%20SS/Screenshot%202026-10-09%20123750.png)
 
 ### 3. Demand & Replenishment
-`[Add Demand & Replenishment screenshot URL]`
+![Demand & Replenishment](https://github.com/Ankar-G/End-to-End-Supply-Chain-Inventory-Optimization/blob/main/Dashboards%20SS/Screenshot%202026-10-09%20123808.png)
 
 ### 4. Supplier Performance
-`[Add Supplier Performance screenshot URL]`
+![Supplier Performance](https://github.com/Ankar-G/End-to-End-Supply-Chain-Inventory-Optimization/blob/main/Dashboards%20SS/Screenshot%202026-10-09%20123820.png)
 
 ---
 
